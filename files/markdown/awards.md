@@ -1,0 +1,28 @@
+- 今泉允聡. 細谷賞. 東北大学サービス・データ科学研究センター. 2021.
+- 瀬川 佳祐. 優秀発表賞. 情報処理学会 モバイルコンピューティングと新社会システム（MBL）研究会. 2021.
+- 井上 裕貴, 北村 浩章,木谷 友哉. 優秀論文賞. 情報処理学会高度交通システムとスマートコミュニティ（ITS）研究会. 2021.
+- 井上 裕貴. 優秀発表賞. 情報処理学会高度交通システムとスマートコミュニティ（ITS）研究会. 2021.
+- 中島 健介. 優秀発表賞. 情報処理学会高度交通システムとスマートコミュニティ（ITS）研究会. 2021.
+- 筒井 政成. 電子情報通信学会コンピュータシステム研究会優秀若手発表賞. 電子情報通信学会コンピュータシステム研究会. 2021.
+- 瀬川 佳祐. 優秀発表表彰. 土木学会 第47回土木情報学シンポジウム. 2022.
+- 空閑 康太. 情報処理学会システム・アーキテクチャ研究会若手奨励賞. 情報処理学会. 2022.
+- Peiqi Zhang andShinya Takamaeda-Yamazaki. CSA Best Paper Award. 10th International Workshop on Computer Systems and Architectures (CSA 2022). 2022.
+- T. Sato,Y.Hayakawa,R.Suzuki, Y.Shiiki,K.Yoshioka, Q. Chen. ETAS Best Short/WIP Paper Award Runner-up. Vehicle Sec. 2022.
+- 高瀬 英希. 山下記念研究賞. 情報処理学会. 2022.
+- 今泉允聡. 令和5年度科学技術分野の文部科学大臣表彰・若手科学者賞. 文部科学省. 2023.
+- 高前田 伸也. 令和5年度科学技術分野の文部科学大臣表彰・若手科学者賞. 文部科学省. 2023.
+- 山(cid:8443) 雄輔. 電子情報通信学会コンピュータシステム研究会優秀若手発表賞. 電子情報通信学会コンピュータシステム研究会. 2023.
+- 山(cid:8443) 雄輔. 情報処理学会コンピュータサイエンス領域奨励賞. 情報処理学会. 2023.
+- 瀬川 佳祐. ヤングリサーチャー賞. 情報処理学会 マルチメディア，分散，協調とモバイルシンポジウム2023. 2023.
+- 劉 世芾. Poster Award. The 5th cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG2023). 2023.
+- 浅野 光平. Poster Award. The 5th cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG2023). 2023.
+- 木谷 友哉. 2022年度 技術部門貢献賞. 自動車技術会. 2023.
+- Ryo Koike. IEEE CEDA AJJC Academic Research Award. IEEE CEDA. 2023.
+- 電子情報通信学会コンピュータシステム研究会優秀若手発表賞. 村上 太一. 電子情報通信学会コンピュータシステム研究会. 2023.
+- 筒井 政成. 情報処理学会システム・アーキテクチャ研究会若手奨励賞. 情報処理学会システム・アーキテクチャ研究会. 2023.
+- 和田 善尚. 学生奨励賞. 情報処理学会 第86回全国大会. 2023.
+- 外谷 新. 奨励発表賞. 情報処理学会 高度交通システムとスマートコミュニティ（ITS）研究会. 2023.
+- 久保 龍哉. 2023年度東京大学大学院情報理工学系研究科長賞. 東京大学大学大学院情報理工学系研究科. 2023.
+- Yoshiki Ozaki. Outstanding Effort Award. The 6th cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG2024). 2024.
+- Honoka Anada. IEEE Computer Society Japan Chapter xSIG Young Researcher Award. The 6th cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG2024). 2024.
+- Daichi Tokuda andShinya Takamaeda-Yamazaki. Outstanding Research Award. The 6th cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG2024). 2024.

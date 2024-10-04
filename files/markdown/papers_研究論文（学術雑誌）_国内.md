@@ -1,0 +1,9 @@
+- 今泉允聡. 超曲面上に特異性を持つ関数推定における深層ニューラルネットワークの優位性. 日本統計学会誌. 2022.
+- KentaroYoshioka. Time-Based Current Source:A Highly Digital RobustCurrent Generator forSwitched Capacitor Circuits. IEICETransactions onElectronics. 2022.
+- 外谷 新, 木谷友哉. 高精度衛星測位技術を用いたデジタル道路地図の精度向上と検証. 日本測量協会 応用測量論文集. 2022.
+- KentaroYoshioka. A Tutorial and Review ofAutomobile Direct ToF LiDARSoCs: Evolution of Next-Generation LiDARs. IEICETransactions onElectronics. 2022.
+- KentaroYoshioka. Towards Reliable LiDARs forAutonomous Driving: AReview of High-Resolutionand Security Features. The Review ofLaser Engineering. 2023.
+- 鈴木諒, 吉岡健太郎, 速川湧気,中原龍一, 那須義久, 西田圭一郎, 尾崎敏文. 深層学習と民生用 3D センサを用いた低コスト高精度肘関節可動域自動計測システムの試み. 中国・四国整形外科学会雑誌. 2023.
+- 橘 奎伍，明田拓士，髙橋 清，富山 和也，萩原 亨. 実道プロファイルを用いたBRIによる路面評価およびIRIとの波長応答特性比較. 土木学会論文集. 2023.
+- 稲木 万玲，富山 和也，伊藤将光，佐藤 正和. 車両乗員の生理反応に基づくストレス要因を考慮した路面変状評価. 土木学会論文集. 2023.
+- 佐々木 賢一郎，富山 和也，西海 隼人，森石 一志，山口 雄希. 人の筋活動電位に基づくプロファイル勾配を考慮した歩行路面評価. 土木学会論文集. 2023.

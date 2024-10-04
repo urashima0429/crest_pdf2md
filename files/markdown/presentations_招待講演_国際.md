@@ -1,0 +1,12 @@
+- Kentaro Yoshioka. Analog to the Rescue? Analog Deep Learning Accelerator Aspects andChallenges. IEEE Asian Solid-State CircuitsConference. 2021.
+- M. Imaizumi, A. Okuno. Nonparametric Invertible Regression Between Closed Hypercubes. Computational andMethodological Statistics. 2021.
+- Masaaki Imaizumi. Stability of Deep Network Estimator for Nonparametric Regression withAdversarial Training. Workshop on FunctionalInference and MachineIntelligence. 2021.
+- S.Nakakita, M.Imaizumi. Benign overfitting in stochastic regression. EcoSta. 2022.
+- Hypothesis Test andConfidence Analysis withWasserstein Distance onGeneral Dimension. M.Imaizumi. EcoSta. 2022.
+- Shinya Takamaeda-Yamazaki. Algorithm/Hardware Co-design for Reliable AI. The 2022 International Meetingfor Future of Electron Devices,Kansai (IMFEDK 2022). 2022.
+- Masaaki Imaizumi. Theory of Deep Learning and Overparmeterization. Online Asian Machine LearningSchool, Asian Conference onMachine Learning. 2022.
+- Y. Uematsu, K. Sawaya,M. Imaizumi. High-dimensional asymptotics for single-index models via approximatemessage passing. CMStatistics. 2022.
+- M.Imaizumi. Sup-norm convergence of deep network estimator for nonparametricregression with corrected adversarial training. CMStatistics. 2022.
+- Masaaki Imaizumi. High-Dimensional Estimators: Universality and Non-Linearity. Workshop on FunctionalInference and MachineIntelligence. 2022.
+- Hideki Takase. Zenohex: a Pub/Sub based Communication Library from Device to theCloud. Multicore and MultiprocessorSoCs (MPSoCs) 2024. 2024.
+- K. Yoshioka, S. Ando, S.Miyagi, Y-C Chen, W.Zhang. Towards Efficient and Precise Analog Compute-in-Memory Circuits. SSDM. 2024.

@@ -1,0 +1,12 @@
+- MasaakiImaizumi, KenjiFukumizu. Advantage of Deep NeuralNetworks for EstimatingFunctions with Singularity onHypersurface. Journal ofMachine LearningResearch. 2022.
+- M.Imaizumi,H.Ota,T.Hamaguchi. Hypothesis Test andConfidence Analysis withWasserstein Distance onGeneral Dimension. NeuralComputation. 2021.
+- BhagawanRokaha,Bishnu PrasadGautam,Tomoya Kitani. Building a Robust RTK-GNSS Infrastructure withSeamless Handover and aMultipath Detection Approach. InternationalJournal ofInformaticsSociety. 2021.
+- MasaakiImaizumi,JohannesSchmidt-Hieber. On Generalization Bounds forDeep Networks Based onLoss Surface ImplicitRegularization. IEEE Transactionon InformationTheory. 2022.
+- Rui Zhang,MasaakiImaizumi,BernardSchölkopf,KrikamolMuandet. Instrumental VariableRegression via KernelMaximum Moment Loss. Journal of CausalInference. 2022.
+- Lijalem Yallew,Gatot Virgianto,Marei Inagi,KazuyaTomiyama. Impact of a Pothole on RoadUser Response in Terms ofDriving Safety and Comfortfor Pavement MaintenancePrioritization. Journal of JSCE. 2023.
+- Peiqi Zhangand ShinyaTakamaeda-Yamazaki. MITA: Multi-Input AdaptiveActivation Function forAccurate Binary NeuralNetwork Hardware. IEICETransactions onInformation andSystems. 2023.
+- Tatsuya Kuboand ShinyaTakamaeda-Yamazaki. Cachet: Low-OverheadIntegrity Verification onMetadata Cache in SecureNon-Volatile MemorySystems. IEEE Micro. 2023.
+- Yuki Hirayama,and ShinyaTakamaeda-Yamazaki. Scalable MomentPropagation and Analysis ofVariational Distributions forPractical Bayesian DeepLearning. IEEETransactions onNeural Networksand LearningSystems. 2023.
+- Ryo Okano,MasaakiImaizumi. Inference for Projection-Based WassersteinDistances on Finite Spaces. Statistica Sinica. 2022.
+- Ryota Miyagi,Ryota Yasudo,Kentaro Sano,Hideki Takase. A Scalable Accelerator forLocal Score Computation ofStructure Learning inBayesian Networks. ACM Transactionson ReconfigurableTechnology andSystems. 2024.
+- TomoyaWakayama,MasaakiImaizumi. Fast Convergence on PerfectClassification for FunctionalData. Statisitica Sinica. 2022.
