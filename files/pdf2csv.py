@@ -1,7 +1,7 @@
 import pdfplumber
 import pandas as pd
 
-target_pdf = "test.pdf"
+target_pdf = "input.pdf"
 output_folder = "raw_csv"
 
 tables_info = {
@@ -13,6 +13,14 @@ tables_info = {
     "media_coverage": (17, 17),
     "workshops": (18, 18)
 }
+
+def clean_cell(cell):
+    """セル内のコンマの後に必ず半角スペースを追加し、改行を削除する"""
+    if cell:
+        cell = cell.replace('\n', '')
+        cell = cell.replace(',', ', ')
+        cell = ' '.join(cell.split())
+    return cell
 
 with pdfplumber.open(target_pdf) as pdf:
     for table_name, (start_page, end_page) in tables_info.items():
@@ -26,7 +34,7 @@ with pdfplumber.open(target_pdf) as pdf:
                     header = [col.replace('\n', '') for col in table[0]]
                 cleaned_rows = []
                 for row in table[1:]:
-                    cleaned_row = [cell.replace('\n', '') if cell else '' for cell in row]
+                    cleaned_row = [clean_cell(cell) for cell in row]
                     cleaned_rows.append(cleaned_row)
                 df = pd.DataFrame(cleaned_rows, columns=header)
                 all_tables.append(df)

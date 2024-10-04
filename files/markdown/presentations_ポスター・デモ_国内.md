@@ -1,14 +1,14 @@
-- 加藤真大, 今泉允聡, 石原卓弥, 北川透. Semiparametric Contextual Best Arm Identification with a Fixed Budget. IBIS2022. 2022.
-- 西澤渉, 今泉允聡. Dynamics of Deep Neural Network: A Functional and Diffusion ProcessApproach. IBIS2022. 2022.
-- 劉 世芾, 金子 竜也, 高前田 伸也. ニューラルネットワークの完全整数学習のためのオプティマイザ. The 5th cross-disciplinaryWorkshop on ComputingSystems, Infrastructures, andProgramming (xSIG 2023). 2023.
-- 菅 研吾, 平山 侑樹, 金子竜也, 高前田 伸也. 高精度な低ビット幅ベイジアンニューラルネットワークの検討. The 5th cross-disciplinaryWorkshop on ComputingSystems, Infrastructures, andProgramming (xSIG 2023). 2023.
-- 薄井 真之. IPコア間の隠れ通信路. フォレストワークショップ2024. 2023.
-- 尾崎 巧基. スケラーブルなwiredアクセラレータ. フォレストワークショップ2024. 2023.
-- 篤田 大知. ビットレベルの早期終了を用いた高性能な決定木アンサンブルアクセラレータ. フォレストワークショップ2024. 2023.
-- 穴田 穂乃香. 軽量Edge-Popupアルゴリズムによるハードウェア効率の高い転移学習. フォレストワークショップ2024. 2023.
-- 長谷 知弥. メモリ整合性検証機構を有するハードウェア高位合成. フォレストワークショップ2024. 2023.
-- 外谷 新. 高精度三次元地図を利用した高精度GNSSプローブデータの検証. フォレストワークショップ2024. 2023.
-- 宮城 賢美, 安藤 慎平, 張文倫, 吉岡 健太郎. Bit-parallel型Computing In-Memory processorのための電流時間積分型ドライバ. LSIワークショップ. 2024.
-- 安藤 慎平, 宮城 賢美, 張文倫, 吉岡 健太郎. Saliency-aware Fully-Analog Computing In-Memory型低消費電力AIアクセラレータ. LSIワークショップ. 2024.
-- 金子 竜也, 高前田 伸也. How to Know You: From Server’s View to Client Data Distribution Too. The 6th cross-disciplinaryWorkshop on ComputingSystems, Infrastructures, andProgramming (xSIG 2024). 2024.
-- 薄井 真之, 金子 竜也, 高前田 伸也. 確率的デバイスにおける大規模言語モデルの信頼性評価. The 6th cross-disciplinaryWorkshop on ComputingSystems, Infrastructures, andProgramming (xSIG 2024). 2024.
+- 金子 竜也, 高前田 伸也. How to Know You: From Server’s View to Client Data Distribution Too. The 6th cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG 2024). 2024年8月.
+- 薄井 真之, 金子 竜也, 高前田 伸也. 確率的デバイスにおける大規模言語モデルの信頼性評価. The 6th cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG 2024). 2024年8月.
+- 宮城 賢美, 安藤 慎平, 張 文倫, 吉岡 健太郎. Bit-parallel型Computing In-Memory processorのための電流時間積分型ドライバ. LSIワークショップ. 2024年5月.
+- 安藤 慎平, 宮城 賢美, 張 文倫, 吉岡 健太郎. Saliency-aware Fully-Analog Computing In-Memory型低消費電力AIアクセラレータ. LSIワークショップ. 2024年5月.
+- 薄井 真之. IPコア間の隠れ通信路. フォレストワークショップ2024. 2024年3月.
+- 尾崎 巧基. スケラーブルなwiredアクセラレータ. フォレストワークショップ2024. 2024年3月.
+- 篤田 大知. ビットレベルの早期終了を用いた高性能な決定木アンサンブルアクセラレータ. フォレストワークショップ2024. 2024年3月.
+- 穴田 穂乃香. 軽量Edge-Popupアルゴリズムによるハードウェア効率の高い転移学習. フォレストワークショップ2024. 2024年3月.
+- 長谷 知弥. メモリ整合性検証機構を有するハードウェア高位合成. フォレストワークショップ2024. 2024年3月.
+- 外谷 新. 高精度三次元地図を利用した高精度GNSSプローブデータの検証. フォレストワークショップ2024. 2024年3月.
+- 劉 世芾, 金子 竜也, 高前田 伸也. ニューラルネットワークの完全整数学習のためのオプティマイザ. The 5th cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG 2023). 2023年8月.
+- 菅 研吾, 平山 侑樹, 金子 竜也, 高前田 伸也. 高精度な低ビット幅ベイジアンニューラルネットワークの検討. The 5th cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG 2023). 2023年8月.
+- 西澤 渉, 今泉 允聡. Dynamics of Deep Neural Network: A Functional and Diffusion ProcessApproach. IBIS2022. 2022年11月.
+- 加藤 真大, 今泉 允聡, 石原卓弥, 北川透. Semiparametric Contextual Best Arm Identification with a Fixed Budget. IBIS2022. 2022年11月.

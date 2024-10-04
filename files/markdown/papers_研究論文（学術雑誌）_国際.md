@@ -1,12 +1,12 @@
-- MasaakiImaizumi, KenjiFukumizu. Advantage of Deep NeuralNetworks for EstimatingFunctions with Singularity onHypersurface. Journal ofMachine LearningResearch. 2022.
-- M.Imaizumi,H.Ota,T.Hamaguchi. Hypothesis Test andConfidence Analysis withWasserstein Distance onGeneral Dimension. NeuralComputation. 2021.
-- BhagawanRokaha,Bishnu PrasadGautam,Tomoya Kitani. Building a Robust RTK-GNSS Infrastructure withSeamless Handover and aMultipath Detection Approach. InternationalJournal ofInformaticsSociety. 2021.
-- MasaakiImaizumi,JohannesSchmidt-Hieber. On Generalization Bounds forDeep Networks Based onLoss Surface ImplicitRegularization. IEEE Transactionon InformationTheory. 2022.
-- Rui Zhang,MasaakiImaizumi,BernardSchölkopf,KrikamolMuandet. Instrumental VariableRegression via KernelMaximum Moment Loss. Journal of CausalInference. 2022.
-- Lijalem Yallew,Gatot Virgianto,Marei Inagi,KazuyaTomiyama. Impact of a Pothole on RoadUser Response in Terms ofDriving Safety and Comfortfor Pavement MaintenancePrioritization. Journal of JSCE. 2023.
-- Peiqi Zhangand ShinyaTakamaeda-Yamazaki. MITA: Multi-Input AdaptiveActivation Function forAccurate Binary NeuralNetwork Hardware. IEICETransactions onInformation andSystems. 2023.
-- Tatsuya Kuboand ShinyaTakamaeda-Yamazaki. Cachet: Low-OverheadIntegrity Verification onMetadata Cache in SecureNon-Volatile MemorySystems. IEEE Micro. 2023.
-- Yuki Hirayama,and ShinyaTakamaeda-Yamazaki. Scalable MomentPropagation and Analysis ofVariational Distributions forPractical Bayesian DeepLearning. IEEETransactions onNeural Networksand LearningSystems. 2023.
-- Ryo Okano,MasaakiImaizumi. Inference for Projection-Based WassersteinDistances on Finite Spaces. Statistica Sinica. 2022.
-- Ryota Miyagi,Ryota Yasudo,Kentaro Sano,Hideki Takase. A Scalable Accelerator forLocal Score Computation ofStructure Learning inBayesian Networks. ACM Transactionson ReconfigurableTechnology andSystems. 2024.
-- TomoyaWakayama,MasaakiImaizumi. Fast Convergence on PerfectClassification for FunctionalData. Statisitica Sinica. 2022.
+- Tomoya Wakayama, Masaaki Imaizumi. Fast Convergence on Perfect Classification for Functional Data. Statisitica Sinica. Oct 2024. (Peer-reviewed).
+- Ryota Miyagi, Ryota Yasudo, Kentaro Sano, Hideki Takase. A Scalable Accelerator for Local Score Computation of Structure Learning in Bayesian Networks. ACM Transactions on Reconfigurable Technology and Systems. DOI: 10.1145/3674842. Jul 2024. (Peer-reviewed).
+- Ryo Okano, Masaaki Imaizumi. Inference for Projection-Based Wasserstein Distances on Finite Spaces. Statistica Sinica. Apr 2024. (Peer-reviewed).
+- Yuki Hirayama, and Shinya Takamaeda-Yamazaki. Scalable Moment Propagation and Analysis of Variational Distributions for Practical Bayesian Deep Learning. IEEE Transactions on Neural Networks and Learning Systems. DOI: https://doi.org/10.1109/TNNLS.2024.3367363. Feb 2024. (Peer-reviewed).
+- Tatsuya Kubo and Shinya Takamaeda-Yamazaki. Cachet: Low-Overhead Integrity Verification on Metadata Cache in Secure Non-Volatile Memory Systems. IEEE Micro, 44, (1). DOI: https://doi.ieeecomputersociety.org/10.1109/MM.2023.3335354. Jan 2024. (Peer-reviewed).
+- Peiqi Zhang and Shinya Takamaeda-Yamazaki. MITA: Multi-Input Adaptive Activation Function for Accurate Binary Neural Network Hardware. IEICE Transactions on Information and Systems, 106-D, (12). DOI: https://doi.org/10.1587/transinf.2023PAP0007. Dec 2023. (Peer-reviewed).
+- Lijalem Yallew, Gatot Virgianto, Marei Inagi, Kazuya Tomiyama. Impact of a Pothole on Road User Response in Terms of Driving Safety and Comfort for Pavement Maintenance Prioritization. Journal of JSCE, 11-2, (23-21035), 1-9. DOI: 10.2208/journalofjsce.23-21035. Nov 2023. (Peer-reviewed).
+- Rui Zhang, Masaaki Imaizumi, Bernard Schölkopf, Krikamol Muandet. Instrumental Variable Regression via Kernel Maximum Moment Loss. Journal of Causal Inference, 11, (1). DOI: 10.1515/jci-2022-0073. Jan 2023. (Peer-reviewed).
+- Masaaki Imaizumi, Johannes Schmidt-Hieber. On Generalization Bounds for Deep Networks Based on Loss Surface Implicit Regularization. IEEE Transaction on Information Theory, 69, (2), 1203-1223. DOI: 10.1109/TIT.2022.3215088. Oct 2022. (Peer-reviewed).
+- Bhagawan Rokaha, Bishnu Prasad Gautam, Tomoya Kitani. Building a Robust RTK-GNSS Infrastructure with Seamless Handover and a Multipath Detection Approach. International Journal of Informatics Society, 13, (3), 115-128. Mar 2022. (Peer-reviewed).
+- M. Imaizumi, H.Ota, T.Hamaguchi. Hypothesis Test and Confidence Analysis with Wasserstein Distance on General Dimension. Neural Computation. Mar 2022. (Peer-reviewed).
+- Masaaki Imaizumi, Kenji Fukumizu. Advantage of Deep Neural Networks for Estimating Functions with Singularity on Hypersurface. Journal of Machine Learning Research, 23, (111), 1-54. Feb 2022. (Peer-reviewed).

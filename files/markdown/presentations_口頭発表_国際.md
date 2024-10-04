@@ -1,19 +1,19 @@
-- Benign Overfitting inOverparameterized TimeSeries Models. Shogo Nakakita, Masaaki Imaizumi. Workshop on the Theory ofOverparameterized MachineLearning. 2022.
-- Masahiro Kato, MasaakiImaizumi. Benign Overfitting in Conditional Average Treatment Effect Predictionwith Linear Regression. Workshop on the Theory ofOverparameterized MachineLearning. 2022.
-- Hideki Takase, ShintaroHosoai, Ryota Kinukawa,Shunsuke Kikuchi. On the way to achieve autonomous node communication in the Elixirecosystem. Code BEAM America 2022. 2022.
-- M.Kato, K.Ariu,M.Imaizumi, M.Uehara,M.Nomura. Best Arm Identification with a Fixed Budget under a Small Gap. 2023 ASA Annual Meeting. 2022.
-- Masaaki Imazumi. Sup-norm convergence of deep network estimator for nonparametricregression with corrected adversarial training. Korian Statistical Society. 2023.
-- Masaaki Imaizumi. On Generalization Bounds for Deep Networks based on Loss SurfaceImplicit Regularization. Latin American Congress ofProbability and MathematicalStatistics. 2023.
-- Masaaki Imaizumi. DEEP LEARNING: Theory, Algorithms, and Applications 2023. Sup-norm convergence of deepnetwork estimator fornonparametric regression withcorrected adversarial training. 2023.
-- Kazuma Sawaya,Yoshimasa Uematsu,Masaaki Imaizumi. Estimation of single index models in moderately high dimension. Econometric and Statistics. 2023.
-- M. Kato, A. Fukuda, K.Takanashi, K. McAlinn, A.Ohda, M. Imaizumi. Synthetic control methods through predictive synthesis. Econometrics and Statistics. 2023.
-- Hideki Takase, ShintaroHosoai, Tatsuya Fukuta,Mitsutaka Takada, ShinKuboaki and Takashi Mori. An Integrated Distributed Simulation Environment weaving by Hakoniwaand mROS 2. ROSCon 2023. 2023.
-- Masaaki Imaizumi. Non-sparse high-dimensional statistics and its applications. International Symposium onRecent Advances in Theoriesand Methodologies for LargeComplex Data. 2023.
-- Junpei Komiyama,Masaaki Imaizumi. High-dimensional Contextual Bandit Problem without Sparsity. Neural Information ProcessingSystems. 2023.
-- Masaaki Imaizumi. Statistical Analysis on Generalization Ability of In-Context Learning. Institute of StatisticalMathematics Asia Pasific RimMeeting 2024. 2023.
-- Masaaki Imaizumi. Statistical Analysis on Generalization Ability of In-Context Learning. The Mathematics of Data. 2023.
-- Masaaki Imaizumi. Introduction to Theory of Deep Learning. The Machine Learning SummerSchool in Okinawa 2024. 2023.
-- Shintaro Hosoai, HidekiTakase and MitsuhiroOsaki. Zenohex:an eloquent, scalable and fast communication library for Elixir. Code BEAM America 2023. 2023.
-- Masaaki Imaizumi. Deep Learning: Theory, Applications, and Implications. Deep Learning: Theory,Applications, and Implications. 2023.
-- Masaaki Imaizumi. Statistics for Modern Data Science: Statistical Analysis onOverparameterized Models and In-Context Learning. International Conference onScientific Computing andMachine Learning 2024. 2023.
-- Masaaki Imaizumi. Statistical Analysis on Overparameterized Models and In-ContextLearning. Workshop on FunctionalInference and MachineIntelligence. 2023.
+- Masaaki Imaizumi. Statistical Analysis on Overparameterized Models and In-Context Learning. Workshop on Functional Inference and Machine Intelligence. Mar 2024.
+- Masaaki Imaizumi. Statistics for Modern Data Science: Statistical Analysis on Overparameterized Models and In-Context Learning. International Conference on Scientific Computing and Machine Learning 2024. Mar 2024.
+- Masaaki Imaizumi. Deep Learning: Theory, Applications, and Implications. Deep Learning: Theory, Applications, and Implications. Mar 2024.
+- Shintaro Hosoai, Hideki Takase and Mitsuhiro Osaki. Zenohex: an eloquent, scalable and fast communication library for Elixir. Code BEAM America 2023. Mar 2024.
+- Masaaki Imaizumi. Introduction to Theory of Deep Learning. The Machine Learning SummerSchool in Okinawa 2024. Mar 2024.
+- Masaaki Imaizumi. Statistical Analysis on Generalization Ability of In-Context Learning. The Mathematics of Data. Jan 2024.
+- Masaaki Imaizumi. Statistical Analysis on Generalization Ability of In-Context Learning. Institute of Statistical Mathematics Asia Pasific Rim Meeting 2024. Jan 2024.
+- Junpei Komiyama, Masaaki Imaizumi. High-dimensional Contextual Bandit Problem without Sparsity. Neural Information Processing Systems. Dec 2023.
+- Masaaki Imaizumi. Non-sparse high-dimensional statistics and its applications. International Symposium onRecent Advances in Theories and Methodologies for Large Complex Data. Dec 2023.
+- Hideki Takase, Shintaro Hosoai, Tatsuya Fukuta, Mitsutaka Takada, Shin Kuboaki and Takashi Mori. An Integrated Distributed Simulation Environment weaving by Hakoniwa and mROS 2. ROSCon 2023. Oct 2023.
+- M. Kato, A. Fukuda, K.Takanashi, K. McAlinn, A.Ohda, M. Imaizumi. Synthetic control methods through predictive synthesis. Econometrics and Statistics. Aug 2023.
+- Kazuma Sawaya, Yoshimasa Uematsu, Masaaki Imaizumi. Estimation of single index models in moderately high dimension. Econometric and Statistics. Aug 2023.
+- Masaaki Imaizumi. DEEP LEARNING: Theory, Algorithms, and Applications 2023. Sup-norm convergence of deepnetwork estimator for nonparametric regression with corrected adversarial training. Jun 2023.
+- Masaaki Imaizumi. On Generalization Bounds for Deep Networks based on Loss Surface Implicit Regularization. Latin American Congress of Probability and Mathematical Statistics. Jun 2023.
+- Masaaki Imazumi. Sup-norm convergence of deep network estimator for nonparametric regression with corrected adversarial training. Korian Statistical Society. May 2023.
+- M. Kato, K.Ariu, M. Imaizumi, M.Uehara, M.Nomura. Best Arm Identification with a Fixed Budget under a Small Gap. 2023 ASA Annual Meeting. Jan 2023.
+- Hideki Takase, Shintaro Hosoai, Ryota Kinukawa, Shunsuke Kikuchi. On the way to achieve autonomous node communication in the Elixir ecosystem. Code BEAM America 2022. Nov 2022.
+- Masahiro Kato, Masaaki Imaizumi. Benign Overfitting in Conditional Average Treatment Effect Prediction with Linear Regression. Workshop on the Theory of Overparameterized Machine Learning. Apr 2022.
+- Benign Overfitting in Overparameterized Time Series Models. Shogo Nakakita, Masaaki Imaizumi. Workshop on the Theory of Overparameterized Machine Learning. Apr 2022.

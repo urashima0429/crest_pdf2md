@@ -37,16 +37,16 @@
 2022,招待講演,国内,無,人を取り巻く社会基盤のデータの活用〜リモートセンシングとモバイルセンシングへの高精度衛星測位応用〜,木谷友哉,IPSJ連続セミナー2022「その先へ 情報技術が貢献できること」,,2022/09/26,,,,,
 2022,口頭発表,国内,無,Now and Next about mROS 2,高瀬英希，細合晋太郎，檜原陽一郎， 田中晴亮(東京大学)，森田正二,ROSCon JP 2022,,2022/10/19,,,,,
 2022,招待講演,国内,無,土木情報学におけるGNSSの新たな役割と技術資料のオープン化,木谷 友哉,GPS/GNSSシンポジウム,,2022/10/20,,2022,,,published
-2022,口頭発表,国際,無,On the way to achieve autonomous node communication in the Elixirecosystem,"Hideki Takase, ShintaroHosoai, Ryota Kinukawa,Shunsuke Kikuchi",Code BEAM America 2022,,2022/11/03,,,,,
+2022,口頭発表,国際,無,On the way to achieve autonomous node communication in the Elixirecosystem,"Hideki Takase, ShintaroHosoai, Ryota Kinukawa, Shunsuke Kikuchi",Code BEAM America 2022,,2022/11/03,,,,,
 2022,招待講演,国内,無,非スパースな高次元漸近論の理論と応用,今泉允聡,大規模複雑データの理論と方法論˜新たな発展と関連分野への応用˜,,2022/11/10,,,,,
 2022,招待講演,国内,無,mROS 2が拓くIoT Computingの新しいカタチ,高瀬英希,EdgeTech+ 2022,,2022/11/17,,,,,
 2022,ポスター・デモ,国内,有,Semiparametric Contextual Best Arm Identification with a Fixed Budget,"加藤真大, 今泉允聡, 石原卓弥, 北川透",IBIS2022,,2022/11/21,,,,,
 2022,ポスター・デモ,国内,無,Dynamics of Deep Neural Network: A Functional and Diffusion ProcessApproach,"西澤渉, 今泉允聡",IBIS2022,,2022/11/22,,,,,
-2022,招待講演,国際,無,Algorithm/Hardware Co-design for Reliable AI,Shinya Takamaeda-Yamazaki,"The 2022 International Meetingfor Future of Electron Devices,Kansai (IMFEDK 2022)",,2022/11/28,,,,,
+2022,招待講演,国際,無,Algorithm/Hardware Co-design for Reliable AI,Shinya Takamaeda-Yamazaki,"The 2022 International Meetingfor Future of Electron Devices, Kansai (IMFEDK 2022)",,2022/11/28,,,,,
 2022,招待講演,国際,無,Theory of Deep Learning and Overparmeterization,Masaaki Imaizumi,"Online Asian Machine LearningSchool, Asian Conference onMachine Learning",,2022/12/13,,,,,
-2022,招待講演,国際,無,High-dimensional asymptotics for single-index models via approximatemessage passing,"Y. Uematsu, K. Sawaya,M. Imaizumi",CMStatistics,,2022/12/20,,,,,
+2022,招待講演,国際,無,High-dimensional asymptotics for single-index models via approximatemessage passing,"Y. Uematsu, K. Sawaya, M. Imaizumi",CMStatistics,,2022/12/20,,,,,
 2022,招待講演,国際,無,Sup-norm convergence of deep network estimator for nonparametricregression with corrected adversarial training,M.Imaizumi,CMStatistics,,2022/12/20,,,,,
-2022,口頭発表,国際,有,Best Arm Identification with a Fixed Budget under a Small Gap,"M.Kato, K.Ariu,M.Imaizumi, M.Uehara,M.Nomura",2023 ASA Annual Meeting,,2023/01/05,,,,,
+2022,口頭発表,国際,有,Best Arm Identification with a Fixed Budget under a Small Gap,"M.Kato, K.Ariu, M.Imaizumi, M.Uehara, M.Nomura",2023 ASA Annual Meeting,,2023/01/05,,,,,
 2022,招待講演,国内,無,深層学習と過剰パラメータの理論,今泉允聡,国立精神・神経医療研究センターの脳病態数理・データ科学セミナーシリーズ,,2023/01/10,,,,,
 2022,ポスター・デモ,国際,有,Why does SGD prefer flat minima?: Through the lens of dynamicalsystems,"Hikaru Ibayashi, MasaakiImaizumi",AAAI WS When MachineLearning meets DynamicalSystems: Theory andApplications,,2023/02/13,,,,,
 2022,招待講演,国内,無,深層学習を用いた車載カメラによる二輪車の検出 始めとする二輪車情報学研究およびその関連技術の紹介,木谷友哉,自動車技術会2022年度第6回車外騒音部門委員,,2023/02/20,,,,,
@@ -64,7 +64,7 @@
 2023,口頭発表,国際,無,On Generalization Bounds for Deep Networks based on Loss SurfaceImplicit Regularization,Masaaki Imaizumi,Latin American Congress ofProbability and MathematicalStatistics,,2023/06/11,,,,,published
 2023,口頭発表,国際,無,"DEEP LEARNING: Theory, Algorithms, and Applications 2023",Masaaki Imaizumi,Sup-norm convergence of deepnetwork estimator fornonparametric regression withcorrected adversarial training,,2023/06/22,,,,,published
 2023,招待講演,国内,無,精度衛星測位応用研究と土木情報学研究所設立,木谷 友哉,令和5年度 日本測量学会 中部支部 講演会,,2023/07/04,,,,,
-2023,口頭発表,国際,無,Estimation of single index models in moderately high dimension,"Kazuma Sawaya,Yoshimasa Uematsu,Masaaki Imaizumi",Econometric and Statistics,,2023/08/01,,,,,published
+2023,口頭発表,国際,無,Estimation of single index models in moderately high dimension,"Kazuma Sawaya, Yoshimasa Uematsu, Masaaki Imaizumi",Econometric and Statistics,,2023/08/01,,,,,published
 2023,口頭発表,国際,有,Synthetic control methods through predictive synthesis,"M. Kato, A. Fukuda, K.Takanashi, K. McAlinn, A.Ohda, M. Imaizumi",Econometrics and Statistics,,2023/08/02,,,,,published
 2023,ポスター・デモ,国内,無,ニューラルネットワークの完全整数学習のためのオプティマイザ,"劉 世芾, 金子 竜也, 高前田 伸也","The 5th cross-disciplinaryWorkshop on ComputingSystems, Infrastructures, andProgramming (xSIG 2023)",,2023/08/02,,,,,
 2023,ポスター・デモ,国内,無,高精度な低ビット幅ベイジアンニューラルネットワークの検討,"菅 研吾, 平山 侑樹, 金子竜也, 高前田 伸也","The 5th cross-disciplinaryWorkshop on ComputingSystems, Infrastructures, andProgramming (xSIG 2023)",,2023/08/02,,,,,
@@ -74,10 +74,10 @@
 2023,口頭発表,国内,無,確率分布のクラスタリング,"岡野遼, 今泉允聡",2023年度統計関連学会連合大会,,2023/09/05,,,,,published
 2023,口頭発表,国内,有,最適腕識別：適応的実験計画による方策選択,"加藤真大, 今泉允聡, 石原卓弥, 北川透",2023年度統計関連学会連合大会,,2023/09/05,,,,,published
 2023,口頭発表,国内,無,高次元線形回帰モデルのもとでの条件付き平均処置効果の推定,"加藤真大, 今泉允聡",2023年度統計関連学会連合大会,,2023/09/06,,,,,published
-2023,口頭発表,国内,有,A dimension-free concentration inequality for sums of random matricesunder dependence,"仲北祥悟, Alquier Pierre,今泉允聡",2023年度統計関連学会連合大会,,2023/09/06,,,,,published
+2023,口頭発表,国内,有,A dimension-free concentration inequality for sums of random matricesunder dependence,"仲北祥悟, Alquier Pierre, 今泉允聡",2023年度統計関連学会連合大会,,2023/09/06,,,,,published
 2023,口頭発表,国内,無,量子化回帰モデルの統計力学的解析,"柏村周平, 坂田綾香, 今泉允聡",日本物理学会第78回年次大会,,2023/09/17,,,,,published
-2023,口頭発表,国内,有,Dimension-free concentration inequalities for sums of weakly dependentrandom matrices,"仲北祥悟, Pierre Alquier,今泉允聡",日本数学会秋季総合分科会,,2023/09/21,,,,,published
-2023,口頭発表,国際,無,An Integrated Distributed Simulation Environment weaving by Hakoniwaand mROS 2,"Hideki Takase, ShintaroHosoai, Tatsuya Fukuta,Mitsutaka Takada, ShinKuboaki and Takashi Mori",ROSCon 2023,,2023/10/20,,,,,
+2023,口頭発表,国内,有,Dimension-free concentration inequalities for sums of weakly dependentrandom matrices,"仲北祥悟, Pierre Alquier, 今泉允聡",日本数学会秋季総合分科会,,2023/09/21,,,,,published
+2023,口頭発表,国際,無,An Integrated Distributed Simulation Environment weaving by Hakoniwaand mROS 2,"Hideki Takase, ShintaroHosoai, Tatsuya Fukuta, Mitsutaka Takada, ShinKuboaki and Takashi Mori",ROSCon 2023,,2023/10/20,,,,,
 2023,口頭発表,国内,無,外れ値を含んだデータにおけるSGDの大域収束性について,"吉田直生, 今泉允聡, 仲北祥悟",IBIS2023,,2023/10/29,,,,,published
 2023,口頭発表,国内,無,量子化回帰モデルの汎化誤差解析,"柏村周平, 坂田綾香, 今泉允聡",IBIS2023,,2023/10/29,,,,,published
 2023,口頭発表,国内,無,ワッサースタイン計量の下での多変量ガウス分布間の回帰モデル,"岡野遼, 今泉允聡",IBIS2023,,2023/10/29,,,,,published
@@ -86,9 +86,9 @@
 2023,口頭発表,国内,無,深層学習・人工知能の原理に迫る理論の試み,今泉允聡,日本地震学会春季大会,,2023/11/02,,,,,published
 2023,口頭発表,国内,無,深層学習と過剰パラメータの理論,今泉允聡,物理屋のための機械学習講義,,2023/12/04,,,,,published
 2023,口頭発表,国際,有,Non-sparse high-dimensional statistics and its applications,Masaaki Imaizumi,International Symposium onRecent Advances in Theoriesand Methodologies for LargeComplex Data,,2023/12/08,,,,,published
-2023,招待講演,国内,無,複数の移動無線観測機を用いた下水管検査の省力化の取り組み,石原進,"電子情報通信学会技術研究報告,無線通信システム研究会 (RCS)",,2023/12/14,123,"08,RCS2023-183",33,34,published
+2023,招待講演,国内,無,複数の移動無線観測機を用いた下水管検査の省力化の取り組み,石原進,"電子情報通信学会技術研究報告, 無線通信システム研究会 (RCS)",,2023/12/14,123,"08, RCS2023-183",33,34,published
 2023,口頭発表,国内,無,深層学習と過剰パラメータの理論,今泉允聡,固体地球科学データ同化/データ駆動型地球科学に関する研究会,,2023/12/18,,,,,published
-2023,口頭発表,国際,有,High-dimensional Contextual Bandit Problem without Sparsity,"Junpei Komiyama,Masaaki Imaizumi",Neural Information ProcessingSystems,,2023/12/19,,,,,published
+2023,口頭発表,国際,有,High-dimensional Contextual Bandit Problem without Sparsity,"Junpei Komiyama, Masaaki Imaizumi",Neural Information ProcessingSystems,,2023/12/19,,,,,published
 2023,口頭発表,国際,無,Statistical Analysis on Generalization Ability of In-Context Learning,Masaaki Imaizumi,Institute of StatisticalMathematics Asia Pasific RimMeeting 2024,,2024/01/05,,,,,published
 2023,口頭発表,国際,無,Statistical Analysis on Generalization Ability of In-Context Learning,Masaaki Imaizumi,The Mathematics of Data,,2024/01/17,,,,,published
 2023,口頭発表,国内,無,インコンテキスト学習の統計学的解析,今泉允聡,統計科学・機械学習・情報数学の最前線,,2024/01/27,,,,,published
@@ -105,7 +105,7 @@
 2023,口頭発表,国内,無,深層学習と過剰パラメータの理論,今泉允聡,計算物理春の学校2024,,2024/03/14,,,,,published
 2023,招待講演,国内,無,A 818-4094 TOPS/W Capacitor-Reconfigured CIM Macro for UnifiedAcceleration of CNNs and Transformers,吉岡健太郎,ISSCC国内報告会,,2024/03/15,,,,,
 2023,招待講演,国内,無,【先進自治体に学ぶ（浜松市×静岡大学）：その3】土木フィールド×情報学による防災研究,木谷 友哉,スマートシティジャパン（SC-Japan）講座 C-R MAPプログラム,,2024/03/15,,,,,
-2023,口頭発表,国際,無,"Deep Learning: Theory, Applications, and Implications",Masaaki Imaizumi,"Deep Learning: Theory,Applications, and Implications",,2024/03/19,,,,,published
+2023,口頭発表,国際,無,"Deep Learning: Theory, Applications, and Implications",Masaaki Imaizumi,"Deep Learning: Theory, Applications, and Implications",,2024/03/19,,,,,published
 2023,口頭発表,国際,無,Statistics for Modern Data Science: Statistical Analysis onOverparameterized Models and In-Context Learning,Masaaki Imaizumi,International Conference onScientific Computing andMachine Learning 2024,,2024/03/21,,,,,published
 2023,口頭発表,国際,無,Statistical Analysis on Overparameterized Models and In-ContextLearning,Masaaki Imaizumi,Workshop on FunctionalInference and MachineIntelligence,,2024/03/27,,,,,published
 2023,口頭発表,国内,無,インコンテキスト学習の統計学的解析,今泉允聡,フォレストワークショップ2024,,2024/03/29,,,,,published

@@ -1,9 +1,9 @@
-- 今泉允聡. 超曲面上に特異性を持つ関数推定における深層ニューラルネットワークの優位性. 日本統計学会誌. 2022.
-- KentaroYoshioka. Time-Based Current Source:A Highly Digital RobustCurrent Generator forSwitched Capacitor Circuits. IEICETransactions onElectronics. 2022.
-- 外谷 新, 木谷友哉. 高精度衛星測位技術を用いたデジタル道路地図の精度向上と検証. 日本測量協会 応用測量論文集. 2022.
-- KentaroYoshioka. A Tutorial and Review ofAutomobile Direct ToF LiDARSoCs: Evolution of Next-Generation LiDARs. IEICETransactions onElectronics. 2022.
-- KentaroYoshioka. Towards Reliable LiDARs forAutonomous Driving: AReview of High-Resolutionand Security Features. The Review ofLaser Engineering. 2023.
-- 鈴木諒, 吉岡健太郎, 速川湧気,中原龍一, 那須義久, 西田圭一郎, 尾崎敏文. 深層学習と民生用 3D センサを用いた低コスト高精度肘関節可動域自動計測システムの試み. 中国・四国整形外科学会雑誌. 2023.
-- 橘 奎伍，明田拓士，髙橋 清，富山 和也，萩原 亨. 実道プロファイルを用いたBRIによる路面評価およびIRIとの波長応答特性比較. 土木学会論文集. 2023.
-- 稲木 万玲，富山 和也，伊藤将光，佐藤 正和. 車両乗員の生理反応に基づくストレス要因を考慮した路面変状評価. 土木学会論文集. 2023.
-- 佐々木 賢一郎，富山 和也，西海 隼人，森石 一志，山口 雄希. 人の筋活動電位に基づくプロファイル勾配を考慮した歩行路面評価. 土木学会論文集. 2023.
+- 橘 奎伍，明田拓士，髙橋 清，富山 和也，萩原 亨. 実道プロファイルを用いたBRIによる路面評価およびIRIとの波長応答特性比較. 土木学会論文集, 79, (21), 23-21017-+9. DOI: https://doi.org/10.2208/jscejj.23-21017. 2024年3月. (Peer-reviewed).
+- 稲木 万玲，富山 和也，伊藤将光，佐藤 正和. 車両乗員の生理反応に基づくストレス要因を考慮した路面変状評価. 土木学会論文集, 79, (21), 23-21019-+10. DOI: https://doi.org/10.2208/jscejj.23-21019. 2024年3月. (Peer-reviewed).
+- 佐々木 賢一郎，富山 和也，西海 隼人，森石 一志，山口 雄希. 人の筋活動電位に基づくプロファイル勾配を考慮した歩行路面評価. 土木学会論文集, 79, (21), 23-21030-+12. DOI: https://doi.org/10.2208/jscejj.23-21030. 2024年3月. (Peer-reviewed).
+- 鈴木諒, 吉岡 健太郎, 速川湧気, 中原龍一, 那須義久, 西田圭一郎, 尾崎敏文. 深層学習と民生用 3D センサを用いた低コスト高精度肘関節可動域自動計測システムの試み. 中国・四国整形外科学会雑誌. 2023年5月. (Peer-reviewed).
+- Kentaro Yoshioka. Towards Reliable LiDARs for Autonomous Driving: A Review of High-Resolutionand Security Features. The Review of Laser Engineering. 2023年5月. (Peer-reviewed).
+- Kentaro Yoshioka. A Tutorial and Review of Automobile Direct ToF LiDAR SoCs: Evolution of Next-Generation LiDARs. IEICE Transactions on Electronics, E105-C, (10). 2022年10月. (Peer-reviewed).
+- 外谷 新, 木谷 友哉. 高精度衛星測位技術を用いたデジタル道路地図の精度向上と検証. 日本測量協会 応用測量論文集, 33. 2022年8月. (Peer-reviewed).
+- Kentaro Yoshioka. Time-Based Current Source:A Highly Digital Robust Current Generator forSwitched Capacitor Circuits. IEICE Transactions on Electronics, 105, (7), 324-333. 2022年7月. (Peer-reviewed).
+- 今泉 允聡. 超曲面上に特異性を持つ関数推定における深層ニューラルネットワークの優位性. 日本統計学会誌, 52, (1). DOI: jjssj.52.33. 2022年5月. (Peer-reviewed).

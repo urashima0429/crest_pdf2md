@@ -14,6 +14,7 @@ docker run -it --rm --name pdf2csv-container -v ${PWD}/files:/usr/src/app/files 
 ```
 cd /usr/src/app/files
 python pdf2csv.py
+python classify_csv.py
 python sort_csv.py
 python csv2md.py
 ```

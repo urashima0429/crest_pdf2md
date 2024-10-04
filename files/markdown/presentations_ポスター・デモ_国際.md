@@ -1,2 +1,2 @@
-- H. Ibayashi, M. Imaizumi. Exponential escape efficiency of SGD from sharp minima in non-stationary regime. Workshop on FunctionalInference and MachineIntelligence. 2021.
-- Hikaru Ibayashi, MasaakiImaizumi. Why does SGD prefer flat minima?: Through the lens of dynamicalsystems. AAAI WS When MachineLearning meets DynamicalSystems: Theory andApplications. 2022.
+- Hikaru Ibayashi, Masaaki Imaizumi. Why does SGD prefer flat minima?: Through the lens of dynamical systems. AAAI WS When Machine Learning meets Dynamical Systems: Theory and Applications. Feb 2023.
+- H. Ibayashi, M. Imaizumi. Exponential escape efficiency of SGD from sharp minima in non-stationary regime. Workshop on Functional Inference and Machine Intelligence. Mar 2022.

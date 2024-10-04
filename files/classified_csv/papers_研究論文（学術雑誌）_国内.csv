@@ -1,0 +1,10 @@
+﻿成果発生年度,論文種別,国内/国際,タイトル,著者,掲載誌,DOI,発行年月日,掲載巻,掲載号,掲載開始ページ,掲載終了ページ,査読,論文ステータス区分,国際共著,備考
+2022,研究論文（学術雑誌）,国内,超曲面上に特異性を持つ関数推定における深層ニューラルネットワークの優位性,今泉 允聡,日本統計学会誌,jjssj.52.33,2022/05/01,52,1,,,有,published,無,日本統計学会小川研究奨励賞特別寄稿論文
+2022,研究論文（学術雑誌）,国内,Time-Based Current Source:A Highly Digital Robust Current Generator forSwitched Capacitor Circuits,Kentaro Yoshioka,IEICE Transactions on Electronics,,2022/07/01,105,7,324,333,有,published,無,
+2022,研究論文（学術雑誌）,国内,高精度衛星測位技術を用いたデジタル道路地図の精度向上と検証,"外谷 新, 木谷 友哉",日本測量協会 応用測量論文集,,2022/08/01,33,,3,12,有,published,無,
+2022,研究論文（学術雑誌）,国内,A Tutorial and Review of Automobile Direct ToF LiDAR SoCs: Evolution of Next-Generation LiDARs,Kentaro Yoshioka,IEICE Transactions on Electronics,,2022/10/01,E105-C,10,,,有,published,無,
+2023,研究論文（学術雑誌）,国内,Towards Reliable LiDARs for Autonomous Driving: A Review of High-Resolutionand Security Features,Kentaro Yoshioka,The Review of Laser Engineering,,2023/05/10,,,,,有,published,無,
+2023,研究論文（学術雑誌）,国内,深層学習と民生用 3D センサを用いた低コスト高精度肘関節可動域自動計測システムの試み,"鈴木諒, 吉岡 健太郎, 速川湧気, 中原龍一, 那須義久, 西田圭一郎, 尾崎敏文",中国・四国整形外科学会雑誌,,2023/05/31,,,,,有,accepted,無,
+2023,研究論文（学術雑誌）,国内,実道プロファイルを用いたBRIによる路面評価およびIRIとの波長応答特性比較,橘 奎伍，明田拓士，髙橋 清，富山 和也，萩原 亨,土木学会論文集,https://doi.org/10.2208/jscejj.23-21017,2024/03/28,79,21,23-21017,+9,有,published,有,
+2023,研究論文（学術雑誌）,国内,車両乗員の生理反応に基づくストレス要因を考慮した路面変状評価,稲木 万玲，富山 和也，伊藤将光，佐藤 正和,土木学会論文集,https://doi.org/10.2208/jscejj.23-21019,2024/03/28,79,21,23-21019,+10,有,published,無,
+2023,研究論文（学術雑誌）,国内,人の筋活動電位に基づくプロファイル勾配を考慮した歩行路面評価,佐々木 賢一郎，富山 和也，西海 隼人，森石 一志，山口 雄希,土木学会論文集,https://doi.org/10.2208/jscejj.23-21030,2024/03/28,79,21,23-21030,+12,有,published,無,
