@@ -1,5 +1,6 @@
 # Extracting achievements from a PDF file 
 ベストエフォート．元がPDFファイルなので，スペースが結構消える．
+`${PWD}/files`に元のpdfを置いてください．
 
 ## Setup
 
