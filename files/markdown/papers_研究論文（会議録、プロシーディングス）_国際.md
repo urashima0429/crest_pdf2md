@@ -18,7 +18,6 @@
 - S. Ishihara, Y. Chikamoto, Y. Tsutsumi and T. V. Pham. Poster: Multi UVs-Based Narrow Sewer Inspection System - UVs Formation Control and Video Streaming. 2023 IEEE Vehicular Networking Conference (VNC). DOI: 10.1109/VNC57357.2023.10136331. Apr 2023.
 - Tatsuya Kubo and Shinya Takamaeda-Yamazaki. Cachet: A High-Performance Joint Subtree Integrity Verification for Secure Non-Volatile Memory. IEEE Symposium on Low-Power and High-Speed Chips and Systems (COOLChips 26). DOI: https://doi.org/10.1109/COOLCHIPS57690.2023.10122117. Apr 2023.
 - Yusuke Yamasaki, Hideki Takase. F2MKD: Fog-enabled Federated Learning with Mutual Knowledge Distillation. Proceedings of 2023 IEEE 20th Consumer Communications & Networking Conference(CCNC). DOI: 10.1109/CCNC51644.2023.10059910. Mar 2023.
-- 細合 晋太郎, 高瀬 英希, 出分 卓矢, 菊地 俊介. 関数型言語ElixirのROS 2クライアントライブラリRclexのIoTプラットフォームNervesへの対応. 情報処理学会研究報告, 2022-EMB-62. 2023年3月.
 - T. Sato, Y.Hayakawa, R.Suzuki, Y.Shiiki, K. Yoshioka, Q.Chen. WIP: Practical Removal Attacks on LiDAR-based Object Detection inAutonomous Driving. Vehicle Sec. Feb 2023.
 - Masahiro Kato, Masaaki Imaizumi, Kentaro Minami. Unified Perspective onProbability Divergence via Maximum Likelihood Density Ratio Estimation: Bridging KL-Divergence and Integral Probability Metrics. PMLR: Artificial Intelligence and Statistics. Feb 2023.
 - Ryota Miyagi, Ryota Yasudo, Kentaro Sano, Hideki Takase. Elastic Sample Filter: AnFPGA-based Accelerator for Bayesian Network Structure Learning. Proceedings of 2022 IEEE International Conference on Field-Programmable Technology (FPT). DOI: 10.1109/ICFPT56656.2022.9974196. Dec 2022.
@@ -26,7 +25,5 @@
 - Sefutsu Ryu and Shinya Takamaeda-Yamazaki. Model-based Federated Reinforcement Distillation. IEEE Global Communications Conference 2022 (GLOBECOM 2022). DOI: 10.1109/GLOBECOM48099.2022.10000678. Dec 2022.
 - Peiqi Zhang and Shinya Takamaeda-Yamazaki. Multi-Input Adaptive Activation Function for Binary Neural Networks. 10th International Workshop on Computer Systems and Architectures (CSA 2022). DOI: 10.1109/CANDARW57323.2022.00062. Nov 2022.
 - T. Sato, Y.Hayakawa, R.Suzuki, Y.Shiiki, K. Yoshioka, Q.Chen. Towards Large-Scale Measurement Study on LiDAR Spoofing Attacks against Object Detection. ACM SIGSAC Conference on Computer and Communications Security (CCS’22). Nov 2022.
-- 中島 健介, 佐久間 尚紀, 市川倫太郎, 中安 淳也, 木谷 友哉. 深層学習ベースの物体検出手法を用いて車載カメラ画像から交通環境内の二輪車を検出する際の学習モデルの構築方法の提案と検出性能の変化に関する実験評価. 自動車技術会2022年秋季大会学術講演会 講演予稿集. 2022年10月.
-- Tomoya Kitani, Yuki Inoue, Hiroaki Kitamura, Tomoya Terada, Shunsuke Nagai. An Image Processing-Based Motorcycle Detection System with Infrared Markers and an Onboard Infrared Camera. 2022 JSAE Annual Congress (Autumn) Proceedings. 2022年10月.
 - Keisuke Kamahori and Shinya Takamaeda-Yamazaki. Accelerating Decision Tree Ensemble with Guided Branch Approximation. International Symposium on Highly-Efficient Accelerators and Reconfigurable Technologies 2022 (HEART2022). DOI: 10.1145/3535044.3535048. Jun 2022.
 - M. Kato, M. Imaizumi, K. McAlinn, S. Yasui, H. Kakehi. 研究論文(会議録、プロシーディングス). Proceedings of International Conference on Learning Representations. Jan 2022.

@@ -18,10 +18,21 @@ for file in csv_files:
             '研究論文（会議録、プロシーディングス）',
             '研究論文（研究会、シンポジウム資料等）'
         ]
+        regions = ['国際', '国内']
         for type in types:
-            filtered_data = data[(data['論文種別'] == type)]
-            filename = f"{file_base}_{type}.csv"
-            filtered_data.to_csv(os.path.join(output_dir, filename), index=False, encoding='utf-8-sig')
+            if type == '研究論文（学術雑誌）':
+                filtered_data = data[data['論文種別'] == type]
+                filename = f"{file_base}_{type}.csv"
+                filtered_data.to_csv(os.path.join(output_dir, filename), index=False, encoding='utf-8-sig')
+            elif type == '研究論文（会議録、プロシーディングス）':
+                for region in regions:
+                    filtered_data = data[(data['論文種別'] == type) & (data['国内/国際'] == region)]
+                    filename = f"{file_base}_{type}_{region}.csv"
+                    filtered_data.to_csv(os.path.join(output_dir, filename), index=False, encoding='utf-8-sig')
+            elif type == '研究論文（研究会、シンポジウム資料等）':
+                filtered_data = data[data['論文種別'] == type]
+                filename = f"{file_base}_{type}.csv"
+                filtered_data.to_csv(os.path.join(output_dir, filename), index=False, encoding='utf-8-sig')
 
     elif "presentations" in file_base:
         types = [
