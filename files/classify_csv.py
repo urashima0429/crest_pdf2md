@@ -18,13 +18,10 @@ for file in csv_files:
             '研究論文（会議録、プロシーディングス）',
             '研究論文（研究会、シンポジウム資料等）'
         ]
-        regions = ['国内', '国際']
-
         for type in types:
-            for region in regions:
-                filtered_data = data[(data['論文種別'] == type) & (data['国内/国際'] == region)]
-                filename = f"{file_base}_{type}_{region}.csv"
-                filtered_data.to_csv(os.path.join(output_dir, filename), index=False, encoding='utf-8-sig')
+            filtered_data = data[(data['論文種別'] == type)]
+            filename = f"{file_base}_{type}.csv"
+            filtered_data.to_csv(os.path.join(output_dir, filename), index=False, encoding='utf-8-sig')
 
     elif "presentations" in file_base:
         types = [
@@ -32,14 +29,12 @@ for file in csv_files:
             '口頭発表',
             'ポスター・デモ'
         ]
-        regions = ['国内', '国際']
 
         for type in types:
-            for region in regions:
-                filtered_data = data[(data['発表区分'] == type) & (data['国内/国際'] == region)]
-                filename = f"{file_base}_{type}_{region}.csv"
-                filtered_data.to_csv(os.path.join(output_dir, filename), index=False, encoding='utf-8-sig')
-    
+            filtered_data = data[(data['発表区分'] == type)]
+            filename = f"{file_base}_{type}.csv"
+            filtered_data.to_csv(os.path.join(output_dir, filename), index=False, encoding='utf-8-sig')
+
     elif "books" in file_base:
         types = [
             '書籍',

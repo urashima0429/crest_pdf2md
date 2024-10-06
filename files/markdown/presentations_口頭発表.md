@@ -7,7 +7,12 @@
 - 平山 侑樹. ハードウェアとアルゴリズムの協調設計による高効率な機械学習の実現. フォレストワークショップ2024. 2024年3月.
 - 高前田 伸也. D3-AI: 多様性と環境変化に寄り添う分散機械学習基盤. フォレストワークショップ2024. 2024年3月.
 - 今泉 允聡. インコンテキスト学習の統計学的解析. フォレストワークショップ2024. 2024年3月.
+- Masaaki Imaizumi. Statistical Analysis on Overparameterized Models and In-Context Learning. Workshop on Functional Inference and Machine Intelligence. Mar 2024.
+- Masaaki Imaizumi. Statistics for Modern Data Science: Statistical Analysis on Overparameterized Models and In-Context Learning. International Conference on Scientific Computing and Machine Learning 2024. Mar 2024.
+- Masaaki Imaizumi. Deep Learning: Theory, Applications, and Implications. Deep Learning: Theory, Applications, and Implications. Mar 2024.
 - 今泉 允聡. 深層学習と過剰パラメータの理論. 計算物理春の学校2024. 2024年3月.
+- Shintaro Hosoai, Hideki Takase and Mitsuhiro Osaki. Zenohex: an eloquent, scalable and fast communication library for Elixir. Code BEAM America 2023. Mar 2024.
+- Masaaki Imaizumi. Introduction to Theory of Deep Learning. The Machine Learning SummerSchool in Okinawa 2024. Mar 2024.
 - 仲田資季, 今泉 允聡. 確率過程サンプリングと動力学計算の融合による非線形力学系のランドスケープ解析. 日本応用数理学会第20回研究部会連合発表会. 2024年3月.
 - 今泉 允聡. 汎用基盤技術研究グループパネルディスカッション. AIPシンポジウム 2023年度 成果報告会. 2024年3月.
 - 今泉 允聡. 深層学習に関する幾つかの理論研究. 第4回TREFOIL研究会. 2024年2月.
@@ -16,14 +21,19 @@
 - 今泉 允聡. 深層学習と過剰パラメータの理論. 総合研究大学院大学葉山セミナー. 2024年2月.
 - 今泉 允聡. 深層学習と過剰パラメータの理論、人工知能の理解への試み. 情報計測オンラインセミナー. 2024年2月.
 - 今泉 允聡. インコンテキスト学習の統計学的解析. 統計科学・機械学習・情報数学の最前線. 2024年1月.
+- Masaaki Imaizumi. Statistical Analysis on Generalization Ability of In-Context Learning. The Mathematics of Data. Jan 2024.
+- Masaaki Imaizumi. Statistical Analysis on Generalization Ability of In-Context Learning. Institute of Statistical Mathematics Asia Pasific Rim Meeting 2024. Jan 2024.
+- Junpei Komiyama, Masaaki Imaizumi. High-dimensional Contextual Bandit Problem without Sparsity. Neural Information Processing Systems. Dec 2023.
 - 今泉 允聡. 深層学習と過剰パラメータの理論. 固体地球科学データ同化/データ駆動型地球科学に関する研究会. 2023年12月.
+- Masaaki Imaizumi. Non-sparse high-dimensional statistics and its applications. International Symposium onRecent Advances in Theories and Methodologies for Large Complex Data. Dec 2023.
 - 今泉 允聡. 深層学習と過剰パラメータの理論. 物理屋のための機械学習講義. 2023年12月.
 - 今泉 允聡. 深層学習・人工知能の原理に迫る理論の試み. 日本地震学会春季大会. 2023年11月.
-- 岡野 遼, 今泉 允聡. ワッサースタイン計量の下での多変量ガウス分布間の回帰モデル. IBIS2023. 2023年10月.
 - 今泉 允聡. ゼロから作る深層学習理論. IBIS2023チュートリアル. 2023年10月.
+- 岡野 遼, 今泉 允聡. ワッサースタイン計量の下での多変量ガウス分布間の回帰モデル. IBIS2023. 2023年10月.
 - 小宮山 純平, 今泉 允聡. 非スパースな高次元文脈付きバンディット問題. IBIS2023. 2023年10月.
 - 柏村 周平, 坂田 綾香, 今泉 允聡. 量子化回帰モデルの汎化誤差解析. IBIS2023. 2023年10月.
 - 吉田 直生, 今泉 允聡, 仲北 祥悟. 外れ値を含んだデータにおけるSGDの大域収束性について. IBIS2023. 2023年10月.
+- Hideki Takase, Shintaro Hosoai, Tatsuya Fukuta, Mitsutaka Takada, Shin Kuboaki and Takashi Mori. An Integrated Distributed Simulation Environment weaving by Hakoniwa and mROS 2. ROSCon 2023. Oct 2023.
 - 仲北 祥悟, Pierre Alquier, 今泉 允聡. Dimension-free concentration inequalities for sums of weakly dependentrandom matrices. 日本数学会秋季総合分科会. 2023年9月.
 - 柏村 周平, 坂田 綾香, 今泉 允聡. 量子化回帰モデルの統計力学的解析. 日本物理学会第78回年次大会. 2023年9月.
 - 仲北 祥悟, Alquier Pierre, 今泉 允聡. A dimension-free concentration inequality for sums of random matricesunder dependence. 2023年度統計関連学会連合大会. 2023年9月.
@@ -33,11 +43,18 @@
 - 杉本実優, 今泉 允聡, 岡野 遼. Augmented Projection Wasserstein 距離. 2023年度統計関連学会連合大会. 2023年9月.
 - 澤谷一磨, 植松良公, 今泉 允聡. 非対称リンクをもつ高次元一般化線形モデルの統計的推論. 2024年度統計関連学会連合大会. 2023年9月.
 - 小野 悠太，細合 晋太郎，中村 宏，高瀬 英希. 非同期非中央集権型連合学習におけるモデルパラメータ更新戦略の動的な切り替え手法の検討. RIXX Workshop 2023. 2023年8月.
+- M. Kato, A. Fukuda, K.Takanashi, K. McAlinn, A.Ohda, M. Imaizumi. Synthetic control methods through predictive synthesis. Econometrics and Statistics. Aug 2023.
+- Kazuma Sawaya, Yoshimasa Uematsu, Masaaki Imaizumi. Estimation of single index models in moderately high dimension. Econometric and Statistics. Aug 2023.
+- Masaaki Imaizumi. DEEP LEARNING: Theory, Algorithms, and Applications 2023. Sup-norm convergence of deepnetwork estimator for nonparametric regression with corrected adversarial training. Jun 2023.
+- Masaaki Imaizumi. On Generalization Bounds for Deep Networks based on Loss Surface Implicit Regularization. Latin American Congress of Probability and Mathematical Statistics. Jun 2023.
+- Masaaki Imazumi. Sup-norm convergence of deep network estimator for nonparametric regression with corrected adversarial training. Korian Statistical Society. May 2023.
 - 今泉 允聡. 深層学習の原理に迫る ──数学の挑戦──. 高校生と大学生のための金曜特別講座. 2023年5月.
 - 今泉 允聡. 深層学習と過剰パラメータの理論. 東京大学大学院 数理科学研究科／情報理工学系研究科 数値解析セミナー. 2023年5月.
 - 今泉 允聡. 深層学習と過剰パラメータの理論. 創発的研究支援事業 融合の場. 2023年5月.
 - 今泉 允聡. 深層学習の原理に迫る -数学の挑戦-. 京都大学理学部第22回MACSコロキウム. 2023年4月.
 - 佐藤 佑真、今泉 允聡. フィルターが小さい深層CNNの最適近似レート. 情報論的学習理論と機械学習研究会(IBISML). 2023年3月.
+- M. Kato, K.Ariu, M. Imaizumi, M.Uehara, M.Nomura. Best Arm Identification with a Fixed Budget under a Small Gap. 2023 ASA Annual Meeting. Jan 2023.
+- Hideki Takase, Shintaro Hosoai, Ryota Kinukawa, Shunsuke Kikuchi. On the way to achieve autonomous node communication in the Elixir ecosystem. Code BEAM America 2022. Nov 2022.
 - 高瀬 英希，細合 晋太郎，檜原 陽一郎， 田中 晴亮(東京大学)，森田正二. Now and Next about mROS 2. ROSCon JP 2022. 2022年10月.
 - 若山 智哉、今泉 允聡. Benign-Overfitting of Overparameterized Bayesian Linear Regression. 統計関連学会連合大会. 2022年9月.
 - 今泉 允聡. 補正付敵対的訓練による深層ニューラルネットワーク推定量のSupノルム収束. 統計関連学会連合大会. 2022年9月.
@@ -45,5 +62,7 @@
 - 津田 俊樹、今泉 允聡. 操作変数による非スパース高次元な線形回帰モデルの良性過適合. 統計関連学会連合大会. 2022年9月.
 - 澤谷 一磨、植松 良公、今泉 允聡. High-Dimensional Asymptotics of Semiparametric Generalized LinearModels via Approximate Message Passing. 統計関連学会連合大会. 2022年9月.
 - 今泉 允聡. 深層学習の原理記述に向けた構造汎化理論スキームの開発. JST創発的研究支援事業「融合の場」. 2022年5月.
+- Benign Overfitting in Overparameterized Time Series Models. Shogo Nakakita, Masaaki Imaizumi. Workshop on the Theory of Overparameterized Machine Learning. Apr 2022.
+- Masahiro Kato, Masaaki Imaizumi. Benign Overfitting in Conditional Average Treatment Effect Prediction with Linear Regression. Workshop on the Theory of Overparameterized Machine Learning. Apr 2022.
 - 西澤 渉, 今泉 允聡. Gradient Descent Algorithm with Path Kernel-based Machine. IBIS2021. 2021年11月.
 - 奥野 彰文, 今泉 允聡. Nonparametric Invertible Regression Between Closed Hypercubes. IBIS2021. 2021年11月.

@@ -60,8 +60,8 @@ for file in csv_files:
                         citation += f" {month_abbr[int(month)]} {year}."
                     else:
                         citation += f" {year}年{int(month)}月."
-                    if peer_reviewed == '有':
-                        citation += f" (Peer-reviewed)."
+                    # if peer_reviewed == '有':
+                    #     citation += f" (Peer-reviewed)."
                 except KeyError as e:
                     error_message = f"Missing key in row {index + 1} in file {file}: {str(e)}"
                     raise ValueError(error_message)

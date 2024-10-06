@@ -1,3 +1,0 @@
-- 細合 晋太郎, 高瀬 英希, 出分 卓矢, 菊地 俊介. 関数型言語ElixirのROS 2クライアントライブラリRclexのIoTプラットフォームNervesへの対応. 情報処理学会研究報告, 2022-EMB-62. 2023年3月.
-- Tomoya Kitani, Yuki Inoue, Hiroaki Kitamura, Tomoya Terada, Shunsuke Nagai. An Image Processing-Based Motorcycle Detection System with Infrared Markers and an Onboard Infrared Camera. 2022 JSAE Annual Congress (Autumn) Proceedings. 2022年10月.
-- 中島 健介, 佐久間 尚紀, 市川倫太郎, 中安 淳也, 木谷 友哉. 深層学習ベースの物体検出手法を用いて車載カメラ画像から交通環境内の二輪車を検出する際の学習モデルの構築方法の提案と検出性能の変化に関する実験評価. 自動車技術会2022年秋季大会学術講演会 講演予稿集. 2022年10月.

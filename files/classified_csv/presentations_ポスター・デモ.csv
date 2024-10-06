@@ -1,6 +1,8 @@
 ﻿成果発生年度,発表区分,国内/国際,国際共著,タイトル,著者,会議名,DOI,発表年月日,掲載巻,掲載号,掲載開始ページ,掲載終了ページ,論文ステータス区分
+2021,ポスター・デモ,国際,有,Exponential escape efficiency of SGD from sharp minima in non-stationary regime,"H. Ibayashi, M. Imaizumi",Workshop on Functional Inference and Machine Intelligence,,2022/03/30,,,,,
 2022,ポスター・デモ,国内,有,Semiparametric Contextual Best Arm Identification with a Fixed Budget,"加藤 真大, 今泉 允聡, 石原卓弥, 北川透",IBIS2022,,2022/11/21,,,,,
 2022,ポスター・デモ,国内,無,Dynamics of Deep Neural Network: A Functional and Diffusion ProcessApproach,"西澤 渉, 今泉 允聡",IBIS2022,,2022/11/22,,,,,
+2022,ポスター・デモ,国際,有,Why does SGD prefer flat minima?: Through the lens of dynamical systems,"Hikaru Ibayashi, Masaaki Imaizumi",AAAI WS When Machine Learning meets Dynamical Systems: Theory and Applications,,2023/02/13,,,,,
 2023,ポスター・デモ,国内,無,ニューラルネットワークの完全整数学習のためのオプティマイザ,"劉 世芾, 金子 竜也, 高前田 伸也","The 5th cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG 2023)",,2023/08/02,,,,,
 2023,ポスター・デモ,国内,無,高精度な低ビット幅ベイジアンニューラルネットワークの検討,"菅 研吾, 平山 侑樹, 金子 竜也, 高前田 伸也","The 5th cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG 2023)",,2023/08/02,,,,,
 2023,ポスター・デモ,国内,無,IPコア間の隠れ通信路,薄井 真之,フォレストワークショップ2024,,2024/03/30,,,,,

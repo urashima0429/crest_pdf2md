@@ -10,5 +10,7 @@
 - 外谷 新. 高精度三次元地図を利用した高精度GNSSプローブデータの検証. フォレストワークショップ2024. 2024年3月.
 - 劉 世芾, 金子 竜也, 高前田 伸也. ニューラルネットワークの完全整数学習のためのオプティマイザ. The 5th cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG 2023). 2023年8月.
 - 菅 研吾, 平山 侑樹, 金子 竜也, 高前田 伸也. 高精度な低ビット幅ベイジアンニューラルネットワークの検討. The 5th cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG 2023). 2023年8月.
+- Hikaru Ibayashi, Masaaki Imaizumi. Why does SGD prefer flat minima?: Through the lens of dynamical systems. AAAI WS When Machine Learning meets Dynamical Systems: Theory and Applications. Feb 2023.
 - 西澤 渉, 今泉 允聡. Dynamics of Deep Neural Network: A Functional and Diffusion ProcessApproach. IBIS2022. 2022年11月.
 - 加藤 真大, 今泉 允聡, 石原卓弥, 北川透. Semiparametric Contextual Best Arm Identification with a Fixed Budget. IBIS2022. 2022年11月.
+- H. Ibayashi, M. Imaizumi. Exponential escape efficiency of SGD from sharp minima in non-stationary regime. Workshop on Functional Inference and Machine Intelligence. Mar 2022.

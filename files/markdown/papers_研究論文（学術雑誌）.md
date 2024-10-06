@@ -1,0 +1,21 @@
+- Tomoya Wakayama, Masaaki Imaizumi. Fast Convergence on Perfect Classification for Functional Data. Statisitica Sinica. Oct 2024.
+- Ryota Miyagi, Ryota Yasudo, Kentaro Sano, Hideki Takase. A Scalable Accelerator for Local Score Computation of Structure Learning in Bayesian Networks. ACM Transactions on Reconfigurable Technology and Systems. DOI: 10.1145/3674842. Jul 2024.
+- Ryo Okano, Masaaki Imaizumi. Inference for Projection-Based Wasserstein Distances on Finite Spaces. Statistica Sinica. Apr 2024.
+- 佐々木 賢一郎，富山 和也，西海 隼人，森石 一志，山口 雄希. 人の筋活動電位に基づくプロファイル勾配を考慮した歩行路面評価. 土木学会論文集, 79, (21), 23-21030-+12. DOI: https://doi.org/10.2208/jscejj.23-21030. 2024年3月.
+- 稲木 万玲，富山 和也，伊藤将光，佐藤 正和. 車両乗員の生理反応に基づくストレス要因を考慮した路面変状評価. 土木学会論文集, 79, (21), 23-21019-+10. DOI: https://doi.org/10.2208/jscejj.23-21019. 2024年3月.
+- 橘 奎伍，明田拓士，髙橋 清，富山 和也，萩原 亨. 実道プロファイルを用いたBRIによる路面評価およびIRIとの波長応答特性比較. 土木学会論文集, 79, (21), 23-21017-+9. DOI: https://doi.org/10.2208/jscejj.23-21017. 2024年3月.
+- Yuki Hirayama, and Shinya Takamaeda-Yamazaki. Scalable Moment Propagation and Analysis of Variational Distributions for Practical Bayesian Deep Learning. IEEE Transactions on Neural Networks and Learning Systems. DOI: https://doi.org/10.1109/TNNLS.2024.3367363. Feb 2024.
+- Tatsuya Kubo and Shinya Takamaeda-Yamazaki. Cachet: Low-Overhead Integrity Verification on Metadata Cache in Secure Non-Volatile Memory Systems. IEEE Micro, 44, (1). DOI: https://doi.ieeecomputersociety.org/10.1109/MM.2023.3335354. Jan 2024.
+- Peiqi Zhang and Shinya Takamaeda-Yamazaki. MITA: Multi-Input Adaptive Activation Function for Accurate Binary Neural Network Hardware. IEICE Transactions on Information and Systems, 106-D, (12). DOI: https://doi.org/10.1587/transinf.2023PAP0007. Dec 2023.
+- Lijalem Yallew, Gatot Virgianto, Marei Inagi, Kazuya Tomiyama. Impact of a Pothole on Road User Response in Terms of Driving Safety and Comfort for Pavement Maintenance Prioritization. Journal of JSCE, 11-2, (23-21035), 1-9. DOI: 10.2208/journalofjsce.23-21035. Nov 2023.
+- 鈴木諒, 吉岡 健太郎, 速川湧気, 中原龍一, 那須義久, 西田圭一郎, 尾崎敏文. 深層学習と民生用 3D センサを用いた低コスト高精度肘関節可動域自動計測システムの試み. 中国・四国整形外科学会雑誌. 2023年5月.
+- Kentaro Yoshioka. Towards Reliable LiDARs for Autonomous Driving: A Review of High-Resolutionand Security Features. The Review of Laser Engineering. 2023年5月.
+- Rui Zhang, Masaaki Imaizumi, Bernard Schölkopf, Krikamol Muandet. Instrumental Variable Regression via Kernel Maximum Moment Loss. Journal of Causal Inference, 11, (1). DOI: 10.1515/jci-2022-0073. Jan 2023.
+- Masaaki Imaizumi, Johannes Schmidt-Hieber. On Generalization Bounds for Deep Networks Based on Loss Surface Implicit Regularization. IEEE Transaction on Information Theory, 69, (2), 1203-1223. DOI: 10.1109/TIT.2022.3215088. Oct 2022.
+- Kentaro Yoshioka. A Tutorial and Review of Automobile Direct ToF LiDAR SoCs: Evolution of Next-Generation LiDARs. IEICE Transactions on Electronics, E105-C, (10). 2022年10月.
+- 外谷 新, 木谷 友哉. 高精度衛星測位技術を用いたデジタル道路地図の精度向上と検証. 日本測量協会 応用測量論文集, 33. 2022年8月.
+- Kentaro Yoshioka. Time-Based Current Source:A Highly Digital Robust Current Generator forSwitched Capacitor Circuits. IEICE Transactions on Electronics, 105, (7), 324-333. 2022年7月.
+- 今泉 允聡. 超曲面上に特異性を持つ関数推定における深層ニューラルネットワークの優位性. 日本統計学会誌, 52, (1). DOI: jjssj.52.33. 2022年5月.
+- Bhagawan Rokaha, Bishnu Prasad Gautam, Tomoya Kitani. Building a Robust RTK-GNSS Infrastructure with Seamless Handover and a Multipath Detection Approach. International Journal of Informatics Society, 13, (3), 115-128. Mar 2022.
+- M. Imaizumi, H.Ota, T.Hamaguchi. Hypothesis Test and Confidence Analysis with Wasserstein Distance on General Dimension. Neural Computation. Mar 2022.
+- Masaaki Imaizumi, Kenji Fukumizu. Advantage of Deep Neural Networks for Estimating Functions with Singularity on Hypersurface. Journal of Machine Learning Research, 23, (111), 1-54. Feb 2022.
